@@ -26,7 +26,7 @@ This Flask application simulates a simplified version of a data retrieval and pr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Rad-007/catalys.git
+   git clone https://github.com/Rad-007/catalys.git  #master branch
    cd flask_app
    ```
 
